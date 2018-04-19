@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 source vm1.config
 export $(cut -d= -f1 vm1.config)
